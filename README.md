@@ -1,4 +1,4 @@
-### some about CoreAnimation ###
+### some about CoreImage ###
 
 ===========================================================================
 DESCRIPTION:
